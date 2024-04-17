@@ -10,6 +10,7 @@ Just a basic weather app that displays the current temp for the zip code hardcod
 
 Clone the repsository
 
+git clone https://github.com/jdconn1/projectnpm.git
 
 Install dependency
 
